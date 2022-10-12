@@ -1,11 +1,12 @@
 import { Routes, Route } from "react-router-dom";
-import Login from "./components/login/Login";
-import Todos from "./components/todos/Todos";
+import Auth from "./pages/Auth";
+import Todos from "./pages/Todos";
+
 function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Login />} />
+        <Route path="/" element={<Auth />} />
         <Route path="/todos" element={<Todos />} />
       </Routes>
     </>
