@@ -8,6 +8,7 @@
 > * e-mail : a328028@gmail.com
 > * blog : https://hopak-e.tistory.com/
 
+
 ## 프로젝트 실행 방법
 1. 프로젝트 최상단 폴더에 .env 폴더를 생성합니다. 생성 후 다음 KEY를 입력합니다.
   ```
