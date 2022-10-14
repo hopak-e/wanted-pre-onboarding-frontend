@@ -27,4 +27,4 @@
 
 ## 배포 링크
 
-[원티드 프리온보딩 과제링크](https://wanted-pre-onboarding-frontend-ten.vercel.app/)
+[원티드 프리온보딩 과제링크](https://wanted-pre-onboarding-frontend-ten.vercel.app/){: target="_blank"}
