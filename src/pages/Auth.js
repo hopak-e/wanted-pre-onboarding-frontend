@@ -99,6 +99,7 @@ function Auth() {
             setIsLoginForm(true);
             setEmail("");
             setPassword("");
+            alert("회원가입이 완료 되었습니다.");
           });
       } catch (err) {
         alert("이미 존재하는 아이디 입니다.");
